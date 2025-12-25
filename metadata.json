@@ -1,0 +1,7 @@
+{
+  "name": "MotoLog - Smart Expense Tracker",
+  "description": "An AI-powered motorcycle travel and expense tracker that automatically calculates fuel and maintenance costs based on your distance and riding style using Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
